@@ -1,0 +1,10 @@
+streamlit
+requests
+pillow
+flask
+flask-cors
+numpy
+opencv-python
+scikit-learn
+joblib
+PyWavelets
